@@ -1,0 +1,9 @@
+> histórias implementadas
+
+alteração ID1
+alateração ID3
+
+> esforço de execução
+
+ID1 esforço leve
+ID3 esforço leve
