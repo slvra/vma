@@ -10,3 +10,13 @@ Não foi criada a página "Como falar conosco"
 
 
 Sugestões e Melhorias
+
+
+Retrospectiva do Sprint
+O objetivo da Retrospectiva do Sprint é planejar maneiras de aumentar a qualidade e a eficácia.
+
+O Scrum Team inspeciona como o último Sprint foi em relação a indivíduos, interações, processos, ferramentas e sua Definição de Pronto. Os elementos inspecionados geralmente variam com o domínio do trabalho. Suposições que os levaram ao erro são identificadas e suas origens exploradas. O Scrum Team discute o que foi bem durante o Sprint, quais problemas ele encontrou e como esses problemas foram (ou não) resolvidos.
+
+O Scrum Team identifica as mudanças mais úteis para melhorar sua eficácia. As melhorias mais impactantes são abordadas o mais rápido possível. Elas podem até ser adicionadas ao Sprint Backlog para o próximo Sprint.
+
+A Retrospectiva do Sprint conclui o Sprint. Ela é limitada a um máximo de três horas para um Sprint de um mês. Para Sprints mais curtos, o evento geralmente é mais curto.
